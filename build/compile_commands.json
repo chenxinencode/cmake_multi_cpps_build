@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/c_learn/cmake_multi_cpps_build/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\common.dir\\src\\insert.cpp.obj -c E:\\c_learn\\cmake_multi_cpps_build\\src\\insert.cpp",
+  "file": "E:/c_learn/cmake_multi_cpps_build/src/insert.cpp",
+  "output": "CMakeFiles/common.dir/src/insert.cpp.obj"
+},
+{
+  "directory": "E:/c_learn/cmake_multi_cpps_build/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\common.dir\\src\\select.cpp.obj -c E:\\c_learn\\cmake_multi_cpps_build\\src\\select.cpp",
+  "file": "E:/c_learn/cmake_multi_cpps_build/src/select.cpp",
+  "output": "CMakeFiles/common.dir/src/select.cpp.obj"
+},
+{
+  "directory": "E:/c_learn/cmake_multi_cpps_build/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/my_sort.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\my_sort.dir\\test.cpp.obj -c E:\\c_learn\\cmake_multi_cpps_build\\test.cpp",
+  "file": "E:/c_learn/cmake_multi_cpps_build/test.cpp",
+  "output": "CMakeFiles/my_sort.dir/test.cpp.obj"
+}
+]

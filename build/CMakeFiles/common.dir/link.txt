@@ -1,0 +1,3 @@
+C:\cmake\bin\cmake.exe -E rm -f CMakeFiles\common.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\common.dir/objects.a @CMakeFiles\common.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -shared -o E:\c_learn\cmake_multi_cpps_build\bin\libcommon.dll -Wl,--out-implib,libcommon.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\common.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\common.dir\linkLibs.rsp
