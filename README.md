@@ -1,0 +1,2 @@
+# cmake_multi_cpps_build
+多个cpp文件时使用cmake创建exe文件
